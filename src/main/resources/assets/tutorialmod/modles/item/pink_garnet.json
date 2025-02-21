@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type" : "minecraft:model",
-    "model": "tutorialmod:item/weedagain"
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tutorialmod:item/pink_garnet"
   }
 }
